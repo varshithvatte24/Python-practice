@@ -1,4 +1,3 @@
-## python-practise 
 
 ## What’s Inside? 🚀
 
